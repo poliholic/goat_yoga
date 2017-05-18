@@ -1,5 +1,5 @@
 console.log("Connected");
-  var giphy_api = "http://api.giphy.com/v1/gifs/search";
+  var giphy_api = "https://api.giphy.com/v1/gifs/search";
 
   $(document).on("ready", function(){
     // gets gifs on page load
